@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://nav.untview.top/">
-    <img src="pubilc/assets/image/logo.png" width="80" />
+    <img src="public/assets/image/logo.png" width="80" />
   </a>
   <br />
   <b>耕云导航</b>
@@ -80,13 +80,13 @@ cd gengyun-nav
 ## 微信公众号
 关注 `耕云计划` 微信公众号，第一时间了解最新信息。
 
-<img src="pubilc/assets/image/weixin-gzh.jpg" width="120" />
+<img src="public/assets/image/weixin-gzh.jpg" width="120" />
 
 ## 赞赏
 如果你觉得这个项目帮助到了你，赏一杯奶茶给作者吧 🫰🫰🫰。<br/>
 开源不易, 有了您的赞助, 我们会做的更好~
 
-<img src="pubilc/assets/image/appreciate.jpg" width="400" />
+<img src="public/assets/image/appreciate.jpg" width="400" />
 
 ## 协议
 [MIT](./LICENSE)
