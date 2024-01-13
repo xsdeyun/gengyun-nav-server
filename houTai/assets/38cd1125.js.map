@@ -1,0 +1,1 @@
+{"version":3,"file":"38cd1125.js","sources":["../../src/views/pages/Layout.vue"],"sourcesContent":["<template>\r\n    <router-view></router-view>\r\n</template>\r\n\r\n<script>\r\nexport default {\r\n    name: 'unt-layout'\r\n}\r\n</script>\r\n"],"names":["_sfc_main","_createBlock","_component_router_view"],"mappings":"uDAKA,MAAKA,EAAU,CACX,KAAM,YACV,8DANIC,EAA2BC,CAAA"}

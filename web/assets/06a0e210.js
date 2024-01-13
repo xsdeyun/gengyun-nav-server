@@ -1,0 +1,2 @@
+import{_ as o,r as _,c as n,e as t,a as c,w as p,o as r,z as d,s as l,v as u}from"./1ae030df.js";const i={name:"unt-404"},s=e=>(l("data-v-6a6164e1"),e=e(),u(),e),m={class:"unt-page404-main"},x=s(()=>t("span",{class:"unt-page404-atxt"}," 404! ",-1)),f=s(()=>t("span",null,"您所访问的页面不存在，您可以选择返回",-1));function h(e,v,k,I,$,g){const a=_("router-link");return r(),n("div",m,[t("p",null,[x,f,c(a,{class:"atxt",to:"/"},{default:p(()=>[d("首页面 ")]),_:1})])])}const B=o(i,[["render",h],["__scopeId","data-v-6a6164e1"]]);export{B as default};
+//# sourceMappingURL=06a0e210.js.map

@@ -1,0 +1,2 @@
+import{n as t}from"./0ae629d1.js";function a(n){return t({url:"/admin/nav.menus/list",method:"get",params:n})}function m(n){return t({url:"/admin/nav.menus/add",method:"post",data:n})}function d(n){return t({url:"/admin/nav.menus/edit",method:"PUT",data:n})}function r(n){return t({url:"/admin/nav.menus/del",method:"delete",params:n})}export{d as a,m as b,r as c,a as m};
+//# sourceMappingURL=5674fa41.js.map
