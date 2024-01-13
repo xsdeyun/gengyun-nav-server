@@ -46,7 +46,7 @@
 
 ## 服务端搭建 部署
 
-运行环境要求PHP7.1+，兼容PHP8.0。 [THINKPHP6.0](./README_TP)
+运行环境要求PHP7.1+，兼容PHP8.0。 [THINKPHP6.0](./README_TP.md)
 
 ``` bash
 # 下载
