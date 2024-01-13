@@ -48,8 +48,8 @@
 
 运行环境要求PHP7.1+，兼容PHP8.0。 [THINKPHP6.0](./README_TP.md)
 
-`houTai` 文件夹是网址后台系统源码，打包好的，如不需要更改可以直接使用
-`web` 文件夹是网站前台源码，需要本地构建打包 [gengyun-nav](https://gitee.com/song-xiansen/gengyun-nav)
+- `houTai` 文件夹是网址后台系统源码，打包好的，如不需要更改可以直接使用
+- `web` 文件夹是网站前台源码，需要本地构建打包 [gengyun-nav](https://gitee.com/song-xiansen/gengyun-nav)
 
 ``` bash
 # 下载
