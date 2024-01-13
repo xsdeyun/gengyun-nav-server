@@ -89,4 +89,4 @@ cd gengyun-nav
 <img src="public/assets/image/appreciate.jpg" width="400" />
 
 ## 协议
-[MIT](./LICENSE)
+[Apache2](./LICENSE)
